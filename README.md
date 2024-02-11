@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mdasad7372
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m MOHAMMAD ASAD
+- 👀 I’m interested in DATA SCIENCE
+- 🌱 I’m currently learning ML,PYTHON LIBRARY
+- 💞️ I’m looking to collaborate on MNCs COMPNY
+- 📫 How to reach me https://github.com/mdasad7372/mdasad7372/edit/main/README.md
 
 <!---
 mdasad7372/mdasad7372 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
