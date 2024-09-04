@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Currently I m doing my project on machine learning
-now I m learning deep Learning and there algorithm .....
+now I m learning deep Learning and there algorithm /
