@@ -13,3 +13,5 @@ Currently I m doing my project on machine learning.
 now I m learning deep Learning and there algorithm.
 
 currently I m doing training in AI/ML engineer at Arcap Reit company.
+
+I have compeleted my data science internship from the developer arena.
