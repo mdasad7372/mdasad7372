@@ -16,4 +16,5 @@ currently I m doing training in AI/ML engineer at Arcap Reit company.
 
 I have compeleted my data science internship from the developer arena.
 Recalling all AI ML concept.
-Learn AI foundation Association from Oracle University
+Learn AI foundation Association from Oracle University.
+Preparing for Isro examination.
