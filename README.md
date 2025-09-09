@@ -14,3 +14,4 @@ I have compeleted my data science internship from the developer arena.
 Recalling all AI ML concept.
 Learn AI foundation Association from Oracle University.
 Preparing for Isro examination.
+Learn Generative Ai from Oracle University.
