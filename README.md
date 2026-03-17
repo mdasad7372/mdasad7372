@@ -15,3 +15,4 @@ Recalling all AI ML concept.
 Learn AI foundation Association from Oracle University.
 Preparing for Isro examination.
 Learn Generative Ai from Oracle University.
+RAG based chatbot llm model on working.
